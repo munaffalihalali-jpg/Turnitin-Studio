@@ -1,0 +1,7 @@
+streamlit>=1.40,<2
+requests>=2.32,<3
+pypdf>=5,<7
+python-docx>=1.1,<2
+# اختياري للتشابه الدلالي المحلي:
+# sentence-transformers>=3,<6
+# torch>=2,<3
